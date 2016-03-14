@@ -1,0 +1,20 @@
+h1{
+    color:lime;
+    font-size:50px;
+    border-bottom-style: solid;
+    border-color: black;
+
+}
+body {
+    font-family: comic san serif;
+    background-image: url("http://cdn.quotesgram.com/img/31/72/1911553000-cute-wallpapers-tumblr-black-and-white5.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    text-align: center;
+    color:yellow;
+}
+li{
+    display: inline;
+    padding:0px 15px 0px 15px;
+}
